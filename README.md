@@ -1,3 +1,5 @@
-I've completed this task as per my understanding from IOS Test Assessment file. 
+I've completed this task as per my understanding from the IOS Test Assessment file. 
 
-Let me know is any feedback
+Let me know if you have any feedback
+
+Thank you
